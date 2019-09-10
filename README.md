@@ -3,8 +3,10 @@
 
 ## فراخوانی
 برای استفاده از این کلاس میتوانید به این شکل عمل کنید
+
 `composer require arshiyan/moneyprice
 `
+
 و برای نمایش قیمت 
 
 `yourwebsite.com/sellUSD
