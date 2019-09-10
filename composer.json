@@ -1,0 +1,16 @@
+{
+    "name": "arshiyan/moneyprice",
+    "description": "a package for get price of money for iranian",
+    "authors": [
+        {
+            "name": "javadarshiyan",
+            "email": "dr.bloger@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "arshiyan\\moneyprice\\": "src/"
+        }
+    }
+}
