@@ -8,6 +8,9 @@
         }
     ],
     "require": {},
+    "license": "Halal",
+    "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "arshiyan\\moneyprice\\": "src/"
